@@ -25,7 +25,6 @@ You can and should use following methods\classes:
       #0B79E1 
       #6a8daf 
       #002950
-      #FFF
 
 - Examples of invalid hex codes:
 
