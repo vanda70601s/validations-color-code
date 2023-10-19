@@ -5,6 +5,7 @@ import java.util.regex.Pattern;
 
 
 public class ColorCodeValidation {
+
     public static boolean validateColorCode(String color) {
         if (color == null || color.isBlank()) return false;
 
